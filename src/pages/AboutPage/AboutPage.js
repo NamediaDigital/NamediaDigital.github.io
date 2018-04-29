@@ -25,15 +25,13 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              everything web.
+              I'm a full stack web developer - read <span className="highlight">JavaScript</span>.
             </p>
             <p>
-              When my dev senses kick-in I build presumably{' '}
-              <span className="highlight"> awesome stuff</span>. I stay close to
-              the community and try to keep tabs with the pace at which the web
-              is evolving. I also like to{' '}
-              <span className="highlight">blog</span> what I learn.
+              My passion is building{' '}
+              <span className="highlight"> awesome stuff</span> for my clients. I have developed a habit of learning a new thing every week. 
+              {/* I also like to{' '}
+              <span className="highlight">share</span> what I learn on youtube or my blog. */}
             </p>
             <p>
               I built this site <span className="highlight">from scratch</span>.
@@ -43,10 +41,25 @@ const AboutPage = (props, context) => {
               </span>{' '}
               (except React though) and had so much fun along the way.
             </p>
-            <p>
+            {/* <p>
               React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
               AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
-            </p>
+            </p> */}
+            <p>My current toolset:</p>
+            <ul>
+              <li>Client Side -
+                <span> React, Redux, React Router, SCSS</span>
+              </li>
+              <li>Server Side -
+                <span> Express, Node, Mongo</span>
+              </li>
+              <li>Testing -
+                <span> Jest, Enzyme, Mocha, Chai, Sinon, Morgan</span>
+              </li>
+              <li>Deployment -
+                <span> Github Pages, Netlify, Heroku</span>
+              </li>
+            </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
             </p>
