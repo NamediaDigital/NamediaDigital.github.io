@@ -1,9 +1,7 @@
-# Dinesh Pandiyan
+# NamediaDigital About Website
 
-This repo holds my **Dev Landing Page**, a one stop shop to everything I do online. 🎉
+This repo holds source code for a portfolio website.
 
-`master` branch has the deploy files. The source code is in `dev` branch [here](https://github.com/flexdinesh/flexdinesh.github.io/tree/dev).
+The website is built with React, Redux, React Router, Styled Components and deployed via [Github Pages](https://pages.github.com/)
 
-## License
-
-MIT © Dinesh Pandiyan
+`master` branch has deployment files. The source code is in `dev` branch [here](https://github.com/NamediaDigital/NamediaDigital.github.io/tree/dev).
