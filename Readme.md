@@ -1,4 +1,4 @@
-# NamediaDigital About Website
+### [Site's URL](https://namediadigital.github.io/)
 
 This repo holds source code for a portfolio website.
 
