@@ -29,18 +29,19 @@ const AboutPage = (props, context) => {
             </p>
             <p>
               My passion is building{' '}
-              <span className="highlight"> awesome stuff</span> for my clients. I have developed a habit of learning a new thing every week. 
+              <span className="highlight"> cool stuff</span> for my clients and learn new technologies. 
+              I have developed a habit of learning one new thing every week. 
               {/* I also like to{' '}
               <span className="highlight">share</span> what I learn on youtube or my blog. */}
             </p>
-            <p>
+            {/* <p>
               I built this site <span className="highlight">from scratch</span>.
               By scratch, I mean <i>absolutely from scratch</i>{' '}
               <span className="highlight">
                 without any UI library/framework
               </span>{' '}
               (except React though) and had so much fun along the way.
-            </p>
+            </p> */}
             {/* <p>
               React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
               AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
@@ -48,7 +49,7 @@ const AboutPage = (props, context) => {
             <p>My current toolset:</p>
             <ul>
               <li>Client Side -
-                <span> React, Redux, React Router, SCSS</span>
+                <span> HTML, CSS, SCSS, Javascript, React, Redux, React Router, Python, Django</span>
               </li>
               <li>Server Side -
                 <span> Express, Node, Mongo</span>

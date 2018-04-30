@@ -21,14 +21,14 @@ export default [{
     </div>
   )
 }, {
-  name: 'react-redux-boilerplate',
+  name: 'cowork-app',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        React-Redux Boilerplate
+        CoWork App
       </div>
       <div className='portfolio-item__desc'>
-        Boilerplate code setup with community best practices
+        Find your fellow coder and co-work away
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
