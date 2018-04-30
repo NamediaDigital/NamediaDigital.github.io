@@ -25,7 +25,7 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I'm a full stack web developer - read <span className="highlight">JavaScript</span>.
+              I'm a full stack web developer - <span className="highlight">MERN stack</span>.
             </p>
             <p>
               My passion is building{' '}
