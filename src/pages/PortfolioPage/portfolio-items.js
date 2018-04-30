@@ -8,60 +8,61 @@ export default [{
         Lambda Notes
       </div>
       <div className='portfolio-item__desc'>
-        Note-Taking app
+        Note-Taking app built with MERN development stack
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
-        <i className="fab fa-npm"></i>
+        <i className="fab fa-react"></i>
       </div>
       <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/typy">More</a> */}
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/notetaker">Github Repo</a>
       </div>
     </div>
   )
 }, {
-  name: 'ethereum-solidity',
+  name: 'react-redux-boilerplate',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Ethereum Solidity
+        React-Redux Boilerplate
       </div>
       <div className='portfolio-item__desc'>
-        Smart Contracts with Solidity
+        Boilerplate code setup with community best practices
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-html5"></i>
-        <i className="fab fa-css3"></i>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk">Blog</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/dev-landing-page">More</a> */}
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/">Github Repo</a>
+      </div>
+    </div>
+  )
+}, {
+  name: 'blockchain4techies',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        All things Blockchain 
+      </div>
+      <div className='portfolio-item__desc'>
+        Comprehensive collection of informational resources for software engineers
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-bitcoin"></i>
+        <i className="fab fa-ethereum"></i>
+        {/* <i className="fab fa-css3"></i> */}
+      </div>
+      <div className='portfolio-item__links'>
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk">Blog</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/Blockchain4Techies">Github Repo</a>
       </div>
     </div>
   )
 }]
 // {
-//   name: 'react-redux-boilerplate',
-//   render: (
-//     <div className='portfolio-item'>
-//       <div className='portfolio-item__title'>
-//         React-Redux Boilerplate
-//       </div>
-//       <div className='portfolio-item__desc'>
-//         Boilerplate code setup with community best practices
-//       </div>
-//       <div className='portfolio-item__icon'>
-//         <i className="fab fa-react"></i>
-//         <i className="fab fa-js"></i>
-//       </div>
-//       <div className='portfolio-item__links'>
-//         <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a>
-//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/react-redux-boilerplate">More</a>
-//       </div>
-//     </div>
-//   )
-// }, {
 //   name: 'npm-module-boilerplate',
 //   render: (
 //     <div className='portfolio-item'>

@@ -57,7 +57,7 @@ const AboutPage = (props, context) => {
                 <span> Jest, Enzyme, Mocha, Chai, Sinon, Morgan</span>
               </li>
               <li>Deployment -
-                <span> Github Pages, Netlify, Heroku</span>
+                <span> Github Pages, Netlify, Heroku, Microsoft Azure, AWS</span>
               </li>
             </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>
