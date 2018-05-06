@@ -29,8 +29,8 @@ const AboutPage = (props, context) => {
             </p>
             <p>
               My passion is building{' '}
-              <span className="highlight"> cool stuff</span> for my clients and learn new technologies. 
-              I have developed a habit of learning one new thing every week. 
+              <span className="highlight"> cool stuff</span> for my clients, friends, and family. 
+              I also have a passion for learning and teaching new technologies. I usually learn one new thing every month.
               {/* I also like to{' '}
               <span className="highlight">share</span> what I learn on youtube or my blog. */}
             </p>

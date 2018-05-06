@@ -28,7 +28,7 @@ export default [{
         CoWork App
       </div>
       <div className='portfolio-item__desc'>
-        Find your fellow coder and co-work away
+        The app lets users find available for co-working fellow developers in nearby cafes and/or co-working places
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
@@ -61,28 +61,28 @@ export default [{
       </div>
     </div>
   )
+}, {
+  name: 'crypto-coins',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Crypto Portfolio
+      </div>
+      <div className='portfolio-item__desc'>
+         The app makes use of coinmarketcap.com api to fetch market data.
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-bitcoin"></i>
+        <i className="fab fa-ethereum"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/mycrypto-coins">Github Repo</a>
+      </div>
+    </div>
+  )
 }]
 // {
-//   name: 'npm-module-boilerplate',
-//   render: (
-//     <div className='portfolio-item'>
-//       <div className='portfolio-item__title'>
-//         NPM Module Boilerplate
-//       </div>
-//       <div className='portfolio-item__desc'>
-//          Boilerplate plate code to create and publish an NPM package
-//       </div>
-//       <div className='portfolio-item__icon'>
-//         <i className="fab fa-js"></i>
-//         <i className="fab fa-npm"></i>
-//       </div>
-//       <div className='portfolio-item__links'>
-//         <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a>
-//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/npm-module-boilerplate">More</a>
-//       </div>
-//     </div>
-//   )
-// }, {
 //   name: 'axios-retry-interceptor',
 //   render: (
 //     <div className='portfolio-item'>
