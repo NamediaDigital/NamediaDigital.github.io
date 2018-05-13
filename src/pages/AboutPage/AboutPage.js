@@ -25,12 +25,12 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I'm a full stack web developer - <span className="highlight">MERN stack</span>.
+              I'm a full stack software engineer - <span className="highlight">MERN stack + Python + Django</span>.
             </p>
             <p>
               My passion is building{' '}
               <span className="highlight"> cool stuff</span> for my clients, friends, and family. 
-              I also have a passion for learning and teaching new technologies. I usually learn one new thing every month.
+              I also have a passion for learning new technologies. I learn one new thing every month.
               {/* I also like to{' '}
               <span className="highlight">share</span> what I learn on youtube or my blog. */}
             </p>

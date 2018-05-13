@@ -21,26 +21,6 @@ export default [{
     </div>
   )
 }, {
-  name: 'cowork-app',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        CoWork App
-      </div>
-      <div className='portfolio-item__desc'>
-        The app lets users find available for co-working fellow developers in nearby cafes and/or co-working places
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-js"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/">Github Repo</a>
-      </div>
-    </div>
-  )
-}, {
   name: 'blockchain4techies',
   render: (
     <div className='portfolio-item'>
@@ -48,7 +28,7 @@ export default [{
         All things Blockchain 
       </div>
       <div className='portfolio-item__desc'>
-        Comprehensive collection of informational resources for software engineers
+        Comprehensive collection of blockchain-related resources for software engineers
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-bitcoin"></i>
@@ -62,14 +42,14 @@ export default [{
     </div>
   )
 }, {
-  name: 'crypto-coins',
+  name: 'cryptotrac',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Crypto Portfolio
+        Crypto Portfolio Tracker
       </div>
       <div className='portfolio-item__desc'>
-         The app makes use of coinmarketcap.com api to fetch market data.
+         Cryptocurrency portfolio tracker. <b>Project Status</b> under active development.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-bitcoin"></i>
@@ -77,12 +57,32 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/mycrypto-coins">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/cryptotrac">Github Repo</a>
       </div>
     </div>
   )
 }]
 // {
+//   name: 'cowork-app',
+//   render: (
+//     <div className='portfolio-item'>
+//       <div className='portfolio-item__title'>
+//         CoWork App
+//       </div>
+//       <div className='portfolio-item__desc'>
+//         The app lets users find available for co-working fellow developers in nearby cafes and/or co-working places
+//       </div>
+//       <div className='portfolio-item__icon'>
+//         <i className="fab fa-react"></i>
+//         <i className="fab fa-js"></i>
+//       </div>
+//       <div className='portfolio-item__links'>
+//         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
+//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/">Github Repo</a>
+//       </div>
+//     </div>
+//   )
+// }, {
 //   name: 'axios-retry-interceptor',
 //   render: (
 //     <div className='portfolio-item'>
