@@ -13,6 +13,7 @@ export default [{
       <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
         <i className="fab fa-react"></i>
+        <i className="fab fa-node"></i>
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a> */}
@@ -21,23 +22,26 @@ export default [{
     </div>
   )
 }, {
-  name: 'blockchain4techies',
+  name: 'PicMe',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        All things Blockchain 
+        PicMe 
       </div>
       <div className='portfolio-item__desc'>
-        Comprehensive collection of blockchain-related resources for software engineers
+        Purpose: Upload pictures and tag/share with friends so they can choose which ones to download for themselves 
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-bitcoin"></i>
-        <i className="fab fa-ethereum"></i>
+        <i className="fab fa-js"></i>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-node"></i>
+        {/* <i className="fab fa-bitcoin"></i>
+        <i className="fab fa-ethereum"></i> */}
         {/* <i className="fab fa-css3"></i> */}
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/Blockchain4Techies">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github Repo</a>
       </div>
     </div>
   )
@@ -46,7 +50,7 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Crypto Portfolio Tracker
+        Crypto Currency Portfolio Tracker
       </div>
       <div className='portfolio-item__desc'>
          Cryptocurrency portfolio tracker. <b>Project Status</b> under active development.
@@ -54,6 +58,7 @@ export default [{
       <div className='portfolio-item__icon'>
         <i className="fab fa-bitcoin"></i>
         <i className="fab fa-ethereum"></i>
+        <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a> */}
