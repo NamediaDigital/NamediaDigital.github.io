@@ -1,14 +1,14 @@
 import React from 'react';
 
 export default [{
-  name: 'lambda-notes',
+  name: 'Knowledge Rocket',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Lambda Notes
+        Knowledge Rocket
       </div>
       <div className='portfolio-item__desc'>
-        Note-Taking app built with MERN development stack
+        The customers for this product are teachers who wish to provide automated knowledge reminders for their students.
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-js"></i>
@@ -16,7 +16,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/notetaker">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github Repo</a>
       </div>
     </div>
   )
