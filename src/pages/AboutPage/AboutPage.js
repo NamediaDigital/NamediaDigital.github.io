@@ -25,12 +25,12 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I'm a full stack software engineer - <span className="highlight">MERN stack + Python + Django</span>.
+              I'm a full stack software engineer/developer - <span className="highlight">Javascript/MERN + Python/Django + Swift/Xcode</span>.
             </p>
             <p>
               My passion is building{' '}
-              <span className="highlight"> cool stuff</span> for my clients, friends, and family. 
-              I also have a passion for learning new technologies. I learn one new thing every month.
+              <span className="highlight"> cool apps</span> for my clients, friends, and family. 
+              I have a passion for learning new technologies and I usually learn one new tech every month.
               {/* I also like to{' '}
               <span className="highlight">share</span> what I learn on youtube or my blog. */}
             </p>
@@ -46,7 +46,7 @@ const AboutPage = (props, context) => {
               React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
               AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
             </p> */}
-            <p>My current toolset:</p>
+            <p>I've built with the following set of programming languages, libraries and frameworks:</p>
             <ul>
               <li>Client Side -
                 <span> <a href="https://www.w3schools.com/html/" target="blank">HTML</a>, <a href="https://www.w3schools.com/Css/" target="blank">CSS</a>, <a href="https://sass-lang.com/" target="blank">SCSS</a>, <a href="http://lesscss.org/" target="blank">LESS</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">Javascript</a>, <a href="https://reactjs.org/" target="blank">React</a>, <a href="https://redux.js.org/" target="blank">Redux</a>, <a href="https://reacttraining.com/react-router/l" target="blank">React Router</a>, <a href="https://www.python.org/" target="blank">Python</a></span>
@@ -59,6 +59,12 @@ const AboutPage = (props, context) => {
               </li>
               <li>Deployment -
                 <span> <a href="https://www.mongodb.com/cloud" target="blank">MongoDB Atlas</a>, <a href="https://mlab.com/" target="blank">mLab</a>, <a href="https://pages.github.com/" target="blank">Github Pages</a>, <a href="https://www.netlify.com/" target="blank">Netlify</a>, <a href="https://www.heroku.com/" target="blank">Heroku</a>, <a href="https://azure.microsoft.com/en-us/" target="blank">Microsoft Azure</a>, <a href="https://aws.amazon.com/" target="blank">AWS</a>, <a href="https://mlab.com/" target="blank">mLab</a></span>
+              </li>
+              <li>Mobile -
+                <span> <a href="https://swift.org/" target="blank">Swift</a>, <a href="https://developer.apple.com/documentation/" target="blank">Xcode</a></span>
+              </li>
+              <li>Security -
+                <span> <a href="https://www.npmjs.com/package/bcrypt" target="blank">Bcrypt</a></span>
               </li>
             </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>
