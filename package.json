@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "homepage": "https://namediadigital.github.io/",
+  "license": "No license",
   "scripts": {
     "start": "node scripts/start.js",
     "start:prod": "ENV=prod node scripts/start.js",
