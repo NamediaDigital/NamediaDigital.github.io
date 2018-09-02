@@ -48,6 +48,12 @@ const AboutPage = (props, context) => {
             </p> */}
             <p>I've built with the following set of programming languages, libraries and frameworks:</p>
             <ul>
+              <li>JS Style Guides -
+                <span> <a href="https://github.com/airbnb/javascript" rel="noopener noreferrer" target="_blank">Airbnb</a>, <a href="https://google.github.io/styleguide/jsguide.html" rel="noopener noreferrer" target="_blank">Google</a></span>
+              </li>
+              <li>UI/UX -
+                <span> <a href="https://material.io/" rel="noopener noreferrer" target="_blank">Material Design</a>, <a href="https://material-ui.com/" rel="noopener noreferrer" target="_blank">Material-UI</a>, <a href="https://semantic-ui.com/" rel="noopener noreferrer" target="_blank">Semantic-UI</a></span>
+              </li>
               <li>Client Side -
                 <span> <a href="https://www.w3schools.com/html/" rel="noopener noreferrer" target="_blank">HTML</a>, <a href="https://www.w3schools.com/Css/" rel="noopener noreferrer" target="_blank">CSS</a>, <a href="https://sass-lang.com/" rel="noopener noreferrer" target="_blank">SCSS</a>, <a href="http://lesscss.org/" rel="noopener noreferrer" target="_blank">LESS</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer" target="_blank">Javascript</a>, <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">React</a>, <a href="https://redux.js.org/" rel="noopener noreferrer" target="_blank">Redux</a>, <a href="https://reacttraining.com/react-router/l" rel="noopener noreferrer" target="_blank">React Router</a></span>
               </li>
@@ -64,10 +70,7 @@ const AboutPage = (props, context) => {
                 <span> <a href="https://swift.org/" target="blank" rel="noopener noreferrer">Swift</a>, <a href="https://developer.apple.com/documentation/" target="blank" rel="noopener noreferrer">Xcode</a></span>
               </li>
               <li>Security -
-                <span> <a href="https://www.npmjs.com/package/bcrypt" target="blank" rel="noopener noreferrer">Bcrypt</a></span>
-              </li>
-              <li>JS Style Guides -
-                <span> <a href="https://github.com/airbnb/javascript" rel="noopener noreferrer" target="_blank">Airbnb</a>, <a href="https://google.github.io/styleguide/jsguide.html" rel="noopener noreferrer" target="_blank">Google</a></span>
+                <span> <a href="https://jwt.io/" target="blank" rel="noopener noreferrer">JWT</a>, <a href="https://www.npmjs.com/package/bcrypt" target="blank" rel="noopener noreferrer">Bcrypt</a></span>
               </li>
             </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>
