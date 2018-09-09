@@ -16,7 +16,7 @@ export default [{
         <i className="fab fa-node"></i>
       </div>
       <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/typy">NPM</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github Repo</a>
       </div>
     </div>
@@ -40,29 +40,32 @@ export default [{
         {/* <i className="fab fa-css3"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/create-your-developer-landing-page-with-github-pages---42jk">Blog</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github Repo</a>
       </div>
     </div>
   )
 }, {
-  name: 'cryptotrac',
+  name: 'Good News',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Crypto Currency Portfolio Tracker
+        Good News
       </div>
       <div className='portfolio-item__desc'>
-         Cryptocurrency portfolio tracker. <b>Project Status</b> under active development.
+        The Good News Project is a news aggregator that uses machine learning to remove clickbait news articles.
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-bitcoin"></i>
-        <i className="fab fa-ethereum"></i>
         <i className="fab fa-js"></i>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-node"></i>
+        {/* <i className="fab fa-bitcoin"></i>
+        <i className="fab fa-ethereum"></i>
+        <i className="fab fa-js"></i> */}
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/NamediaDigital/cryptotrac">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">Github Repo</a>
       </div>
     </div>
   )
