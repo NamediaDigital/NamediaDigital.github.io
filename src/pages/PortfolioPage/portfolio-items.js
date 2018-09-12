@@ -59,6 +59,7 @@ export default [{
         <i className="fab fa-js"></i>
         <i className="fab fa-react"></i>
         <i className="fab fa-node"></i>
+        <i className="fab fa-python"></i>
         {/* <i className="fab fa-bitcoin"></i>
         <i className="fab fa-ethereum"></i>
         <i className="fab fa-js"></i> */}
