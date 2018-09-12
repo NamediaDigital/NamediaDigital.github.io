@@ -17,7 +17,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github</a>
       </div>
     </div>
   )
@@ -41,7 +41,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github</a>
       </div>
     </div>
   )
@@ -65,7 +65,8 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">Github Repo</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS10-GoodNews">Github CS</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">Github DS</a>
       </div>
     </div>
   )
