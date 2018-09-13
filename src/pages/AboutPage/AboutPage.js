@@ -64,13 +64,13 @@ const AboutPage = (props, context) => {
                 <span> <a href="https://facebook.github.io/jest/" target="blank" rel="noopener noreferrer">Jest</a>, <a href="https://github.com/airbnb/enzyme" target="blank" rel="noopener noreferrer">Enzyme</a>, <a href="https://mochajs.org/" target="blank" rel="noopener noreferrer">Mocha</a>, <a href="http://www.chaijs.com/" target="blank" rel="noopener noreferrer">Chai</a>, <a href="http://sinonjs.org/" target="blank" rel="noopener noreferrer">Sinon</a></span>
               </li>
               <li>Deployment -
-                <span> <a href="https://www.mongodb.com/cloud" target="blank" rel="noopener noreferrer">MongoDB Atlas</a>, <a href="https://mlab.com/" target="blank" rel="noopener noreferrer">mLab</a>, <a href="https://pages.github.com/" target="blank" rel="noopener noreferrer">Github Pages</a>, <a href="https://www.netlify.com/" target="blank" rel="noopener noreferrer">Netlify</a>, <a href="https://www.heroku.com/" target="blank" rel="noopener noreferrer">Heroku</a>, <a href="https://azure.microsoft.com/en-us/" target="blank" rel="noopener noreferrer">Microsoft Azure</a>, <a href="https://aws.amazon.com/" target="blank" rel="noopener noreferrer">AWS</a>, <a href="https://mlab.com/" target="blank" rel="noopener noreferrer">mLab</a></span>
+                <span> <a href="https://firebase.google.com/" target="blank" rel="noopener noreferrer">Firebase</a>, <a href="https://www.mongodb.com/cloud" target="blank" rel="noopener noreferrer">MongoDB Atlas</a>, <a href="https://mlab.com/" target="blank" rel="noopener noreferrer">mLab</a>, <a href="https://pages.github.com/" target="blank" rel="noopener noreferrer">Github Pages</a>, <a href="https://www.netlify.com/" target="blank" rel="noopener noreferrer">Netlify</a>, <a href="https://www.heroku.com/" target="blank" rel="noopener noreferrer">Heroku</a>, <a href="https://azure.microsoft.com/en-us/" target="blank" rel="noopener noreferrer">Microsoft Azure</a>, <a href="https://aws.amazon.com/" target="blank" rel="noopener noreferrer">AWS</a>, <a href="https://mlab.com/" target="blank" rel="noopener noreferrer">mLab</a></span>
               </li>
               <li>Mobile -
                 <span> <a href="https://swift.org/" target="blank" rel="noopener noreferrer">Swift</a>, <a href="https://developer.apple.com/documentation/" target="blank" rel="noopener noreferrer">Xcode</a></span>
               </li>
-              <li>Security -
-                <span> <a href="https://jwt.io/" target="blank" rel="noopener noreferrer">JWT</a>, <a href="https://www.npmjs.com/package/bcrypt" target="blank" rel="noopener noreferrer">Bcrypt</a></span>
+              <li>Security/Authentication -
+                <span> <a href="https://jwt.io/" target="blank" rel="noopener noreferrer">JWT</a>, <a href="https://www.npmjs.com/package/bcrypt" target="blank" rel="noopener noreferrer">Bcrypt</a>, <a href="http://www.passportjs.org/" target="blank" rel="noopener noreferrer">Passport</a></span>
               </li>
             </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>
