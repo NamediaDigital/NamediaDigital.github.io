@@ -17,7 +17,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://knowledge-rocket-v1.herokuapp.com/">tempURL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/"><strike>URL</strike></a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github</a>
       </div>
     </div>
@@ -42,7 +42,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://picmecollections.netlify.com/">tempURL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/"><strike>URL</strike></a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github</a>
       </div>
     </div>
@@ -67,9 +67,9 @@ export default [{
         <i className="fab fa-js"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/publish-your-own-npm-package---5b71">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS10-GoodNews">Github CS</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">Github DS</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://labs7goodnews.herokuapp.com/">tempURL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS10-GoodNews">GithubCS</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">GithubDS</a>
       </div>
     </div>
   )
