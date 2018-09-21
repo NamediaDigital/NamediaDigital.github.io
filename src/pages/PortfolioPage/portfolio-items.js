@@ -17,7 +17,6 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github</a>
       </div>
     </div>
   )
@@ -41,7 +40,6 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github</a>
       </div>
     </div>
   )
@@ -50,7 +48,7 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Good News
+        Good News - WIP
       </div>
       <div className='portfolio-item__desc'>
         The Good News Project is a news aggregator that uses machine learning to remove clickbait news articles.
