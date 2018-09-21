@@ -16,8 +16,7 @@ export default [{
         <i className="fab fa-node"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://knowledge-rocket-v1.herokuapp.com/">tempURL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/"><strike>URL</strike></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-KnowledgeRocket">Github</a>
       </div>
     </div>
@@ -41,8 +40,7 @@ export default [{
         {/* <i className="fab fa-css3"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://picmecollections.netlify.com/">tempURL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/"><strike>URL</strike></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS9-PicMe">Github</a>
       </div>
     </div>
@@ -67,7 +65,7 @@ export default [{
         <i className="fab fa-js"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://labs7goodnews.herokuapp.com/">tempURL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://labs7goodnews.herokuapp.com/">devURL</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS10-GoodNews">GithubCS</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">GithubDS</a>
       </div>
