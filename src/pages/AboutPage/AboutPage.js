@@ -28,7 +28,7 @@ const AboutPage = (props, context) => {
               I'm a full stack software engineer/developer - <span className="highlight">JS/MERN/MEAN + Python/Django + Swift/Xcode</span>.
             </p>
             <p>
-              I love to learn and teach computer science, but, most of all, I love and enjoy to make things with it.
+              I love to learn and teach computer science, but, most of all, I get a kick out of making things with it.
               {/* My passion is building{' '}
               <span className="highlight"> cool apps</span> for my clients, friends, and family. 
               I have a passion for learning new technologies and I usually learn one new tech every month. */}
@@ -47,7 +47,7 @@ const AboutPage = (props, context) => {
               React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
               AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
             </p> */}
-            <p>My <span className="highlight">toolset</span>:</p>
+            <p>Current <span className="highlight">toolset</span>:</p>
             <ul>
               <li><em>JS STYLE GUIDE</em> -
                 <span> <a href="https://github.com/airbnb/javascript" rel="noopener noreferrer" target="_blank">Airbnb</a>, <a href="https://google.github.io/styleguide/jsguide.html" rel="noopener noreferrer" target="_blank">Google</a></span>
