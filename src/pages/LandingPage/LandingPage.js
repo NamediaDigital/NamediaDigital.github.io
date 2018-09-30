@@ -18,7 +18,7 @@ const LandingPage = (props, context) => {
         <div className="intro-wrapper">
           <div className="intro-name">Software Engineer/Developer</div>
           <div className="tagline">
-          Javascript/MERN | Python/Django | Swift/Xcode
+          JS/MERN/MEAN | Python/Django | Swift/Xcode
           </div>
           <SocialIcons />
         </div>
