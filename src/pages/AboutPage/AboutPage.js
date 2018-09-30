@@ -28,7 +28,8 @@ const AboutPage = (props, context) => {
               I'm a full stack software engineer/developer - <span className="highlight">JS/MERN/MEAN + Python/Django + Swift/Xcode</span>.
             </p>
             <p>
-              I love to learn and teach computer science, but, most of all, I get a kick out of making things with it.
+              I love to learn and teach <span className="highlight">Computer Science</span>, but, most of all, I get a kick out of making things with it.<br />
+              A special shout-out to my instructors and mentors over at <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Lambda School</span></a> for helping me to get started.
               {/* My passion is building{' '}
               <span className="highlight"> cool apps</span> for my clients, friends, and family. 
               I have a passion for learning new technologies and I usually learn one new tech every month. */}
