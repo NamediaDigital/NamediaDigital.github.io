@@ -103,8 +103,8 @@ const AboutPage = (props, context) => {
                 <a href="http://www.passportjs.org/" target="blank" rel="noopener noreferrer">Passport</a></span>
               </li>
               <li><em>Other</em> -
-                <span> <a href="https://github.com/" target="blank" rel="noopener noreferrer">Github</a>,&nbsp;
-                <a href="https://travis-ci.org/" target="blank" rel="noopener noreferrer">Travis CI</a></span>
+                <span> <a href="https://github.com/" target="blank" rel="noopener noreferrer">Github - open source</a>,&nbsp;
+                <a href="https://travis-ci.org/" target="blank" rel="noopener noreferrer">Travis CI - continuous integration</a></span>
               </li>
             </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>
