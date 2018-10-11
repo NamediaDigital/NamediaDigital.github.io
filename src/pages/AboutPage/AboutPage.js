@@ -103,6 +103,10 @@ const AboutPage = (props, context) => {
                 <a href="https://www.npmjs.com/package/bcrypt" target="blank" rel="noopener noreferrer">Bcrypt</a>,&nbsp;
                 <a href="http://www.passportjs.org/" target="blank" rel="noopener noreferrer">Passport</a></span>
               </li>
+              <li><em>Blockchain</em> -
+                <span> <a href="https://www.ethereum.org/" target="blank" rel="noopener noreferrer">Ethereum</a>,&nbsp;
+                <a href="https://truffleframework.com/" target="blank" rel="noopener noreferrer">Truffle</a></span>
+              </li>
               <li><em>Other</em> -
                 <span> <a href="https://github.com/" target="blank" rel="noopener noreferrer">Github - open source</a>,&nbsp;
                 <a href="https://travis-ci.org/" target="blank" rel="noopener noreferrer">Travis CI - continuous integration</a></span>
