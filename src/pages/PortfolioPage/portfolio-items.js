@@ -87,7 +87,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/passport">Github</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/passport">GITHUB</a>
       </div>
     </div>
   )
@@ -109,7 +109,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/truffle">Github</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/truffle">GITHUB</a>
       </div>
     </div>
   )
@@ -129,7 +129,7 @@ export default [{
         <i className="fab fa-npm"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/gatsby">Github</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/gatsby">GITHUB</a>
       </div>
     </div>
   )
