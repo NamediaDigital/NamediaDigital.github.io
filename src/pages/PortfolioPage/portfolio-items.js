@@ -48,7 +48,7 @@ export default [{
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Good News - WIP
+        Good News
       </div>
       <div className='portfolio-item__desc'>
         The Good News Project is a news aggregator that uses machine learning to remove clickbait news articles.
@@ -63,9 +63,7 @@ export default [{
         <i className="fab fa-js"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://labs7goodnews.herokuapp.com/">devURL</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/CS10-GoodNews">GithubCS</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/Lambda-School-Labs/DS-GoodNews">GithubDS</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.good-news.io/">URL</a>
       </div>
     </div>
   )
