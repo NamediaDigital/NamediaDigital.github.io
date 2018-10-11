@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default [{
-  name: 'Knowledge Rocket',
+  name: 'KnowledgeRocket',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
@@ -44,7 +44,7 @@ export default [{
     </div>
   )
 }, {
-  name: 'Good News',
+  name: 'GoodNews',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
@@ -67,63 +67,68 @@ export default [{
       </div>
     </div>
   )
+},
+{
+  name: 'Passport',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Passport
+      </div>
+      <div className='portfolio-item__desc'>
+        Authentication middleware for Node.js. Open Source Project Contributor
+      </div>
+      <div className='portfolio-item__icon'>
+        {/* <i className="fab fa-react"></i> */}
+        <i className="fab fa-js"></i>
+        <i className="fab fa-node"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/passport">Github</a>
+      </div>
+    </div>
+  )
+}, {
+  name: 'Truffle',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Truffle
+      </div>
+      <div className='portfolio-item__desc'>
+      The most popular Ethereum development framework. Open Source Project Contributor
+      </div>
+      <div className='portfolio-item__icon'>
+        {/* <i className="fab fa-js"></i> */}
+        <i className="fab fa-ethereum"></i>
+        <i className="fab fa-node"></i>
+        <i className="fab fa-npm"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/truffle">Github</a>
+      </div>
+    </div>
+  )
+}, {
+  name: 'Gatsby',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Gatsby
+      </div>
+      <div className='portfolio-item__desc'>
+        Blazing fast apps with React. Open Source Project Contributor
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+        <i className="fab fa-npm"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/gatsby">Github</a>
+      </div>
+    </div>
+  )
 }]
-// {
-//   name: 'cowork-app',
-//   render: (
-//     <div className='portfolio-item'>
-//       <div className='portfolio-item__title'>
-//         CoWork App
-//       </div>
-//       <div className='portfolio-item__desc'>
-//         The app lets users find available for co-working fellow developers in nearby cafes and/or co-working places
-//       </div>
-//       <div className='portfolio-item__icon'>
-//         <i className="fab fa-react"></i>
-//         <i className="fab fa-js"></i>
-//       </div>
-//       <div className='portfolio-item__links'>
-//         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
-//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/">Github Repo</a>
-//       </div>
-//     </div>
-//   )
-// }, {
-//   name: 'axios-retry-interceptor',
-//   render: (
-//     <div className='portfolio-item'>
-//       <div className='portfolio-item__title'>
-//         Axios Retry Interceptor
-//       </div>
-//       <div className='portfolio-item__desc'>
-//         Configurable Axios Interceptor to retry failed http calls.
-//       </div>
-//       <div className='portfolio-item__icon'>
-//         <i className="fab fa-js"></i>
-//       </div>
-//       <div className='portfolio-item__links'>
-//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/axios-retry-interceptor">More</a>
-//       </div>
-//     </div>
-//   )
-// }, {
-//   name: 'browser-or-node',
-//   render: (
-//     <div className='portfolio-item'>
-//       <div className='portfolio-item__title'>
-//         Browser or Node
-//       </div>
-//       <div className='portfolio-item__desc'>
-//         Javascript library to check the runtime JS env
-//       </div>
-//       <div className='portfolio-item__icon'>
-//         <i className="fab fa-js"></i>
-//         <i className="fab fa-npm"></i>
-//       </div>
-//       <div className='portfolio-item__links'>
-//         <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a>
-//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/flexdinesh/browser-or-node">More</a>
-//       </div>
-//     </div>
-//   )
-// }]
