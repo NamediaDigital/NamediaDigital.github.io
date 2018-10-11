@@ -20,7 +20,8 @@ export default [{
         <i className="fab fa-js"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.good-news.io/">URL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.good-news.io/">LIVE</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://labs7goodnews.herokuapp.com/">DEV</a>
       </div>
     </div>
   )
@@ -43,7 +44,8 @@ export default [{
         {/* <i className="fab fa-css3"></i> */}
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">LIVE</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://picmecollections.netlify.com/#/">DEV</a>
       </div>
     </div>
   )
@@ -63,7 +65,8 @@ export default [{
         <i className="fab fa-node"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">LIVE</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://knowledge-rocket-v1.herokuapp.com/">DEV</a>
       </div>
     </div>
   )
