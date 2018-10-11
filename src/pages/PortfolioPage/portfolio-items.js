@@ -1,49 +1,6 @@
 import React from 'react';
 
 export default [{
-  name: 'KnowledgeRocket',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        Knowledge Rocket
-      </div>
-      <div className='portfolio-item__desc'>
-        The customers for this product are teachers who wish to provide automated knowledge reminders for their students.
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-node"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
-      </div>
-    </div>
-  )
-}, {
-  name: 'PicMe',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        PicMe 
-      </div>
-      <div className='portfolio-item__desc'>
-        Purpose: Upload pictures and tag/share with friends so they can choose which ones to download for themselves 
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-js"></i>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-node"></i>
-        {/* <i className="fab fa-bitcoin"></i>
-        <i className="fab fa-ethereum"></i> */}
-        {/* <i className="fab fa-css3"></i> */}
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
-      </div>
-    </div>
-  )
-}, {
   name: 'GoodNews',
   render: (
     <div className='portfolio-item'>
@@ -67,8 +24,50 @@ export default [{
       </div>
     </div>
   )
-},
-{
+}, {
+  name: 'PicMe',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        PicMe 
+      </div>
+      <div className='portfolio-item__desc'>
+        Upload pictures and tag/share with friends so they can choose which ones to download for themselves 
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-js"></i>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-node"></i>
+        {/* <i className="fab fa-bitcoin"></i>
+        <i className="fab fa-ethereum"></i> */}
+        {/* <i className="fab fa-css3"></i> */}
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.picmecollections.com/">URL</a>
+      </div>
+    </div>
+  )
+}, {
+  name: 'KnowledgeRocket',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Knowledge Rocket
+      </div>
+      <div className='portfolio-item__desc'>
+        The customers for this product are teachers who wish to provide automated knowledge reminders for their students.
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-js"></i>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-node"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.knowledgerocket.app/">URL</a>
+      </div>
+    </div>
+  )
+}, {
   name: 'Passport',
   render: (
     <div className='portfolio-item'>
