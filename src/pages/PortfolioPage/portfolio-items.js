@@ -21,7 +21,9 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         <a target="_blank" rel="noopener noreferrer" href="https://www.good-news.io/">LIVE</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/gNH1BokSgt4"><i class="fab fa-youtube"></i></a>
         <a target="_blank" rel="noopener noreferrer" href="https://labs7goodnews.herokuapp.com/">DEV</a>
+
       </div>
     </div>
   )
