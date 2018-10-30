@@ -105,7 +105,14 @@ const AboutPage = (props, context) => {
               </li>
               <li><em>Blockchain</em> -
                 <span> <a href="https://www.ethereum.org/" target="blank" rel="noopener noreferrer">Ethereum</a>,&nbsp;
-                <a href="https://truffleframework.com/" target="blank" rel="noopener noreferrer">Truffle</a></span>
+                <a href="https://github.com/ethereum/solidity" target="blank" rel="noopener noreferrer">Solidity</a>,&nbsp;
+                <a href="https://metamask.io/" target="blank" rel="noopener noreferrer">MetaMask</a>,&nbsp;
+                <a href="https://truffleframework.com/" target="blank" rel="noopener noreferrer">Truffle</a>,&nbsp;
+                <a href="https://remix.ethereum.org/" target="blank" rel="noopener noreferrer">Remix</a>,&nbsp;
+                <a href="https://github.com/ethereum/web3.js/" target="blank" rel="noopener noreferrer">Web3JS</a>,&nbsp;
+                <a href="https://etherscan.io/" target="blank" rel="noopener noreferrer">EtherScan</a>,&nbsp;
+                <a href="http://www.ethviewer.live/" target="blank" rel="noopener noreferrer">EthViewerLive</a>
+                </span>
               </li>
               <li><em>Other</em> -
                 <span> <a href="https://github.com/" target="blank" rel="noopener noreferrer">Github - open source</a>,&nbsp;
