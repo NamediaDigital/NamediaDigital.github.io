@@ -111,7 +111,8 @@ const AboutPage = (props, context) => {
                 <a href="https://remix.ethereum.org/" target="blank" rel="noopener noreferrer">Remix</a>,&nbsp;
                 <a href="https://github.com/ethereum/web3.js/" target="blank" rel="noopener noreferrer">Web3JS</a>,&nbsp;
                 <a href="https://etherscan.io/" target="blank" rel="noopener noreferrer">EtherScan</a>,&nbsp;
-                <a href="http://www.ethviewer.live/" target="blank" rel="noopener noreferrer">EthViewerLive</a>
+                <a href="http://www.ethviewer.live/" target="blank" rel="noopener noreferrer">EthViewerLive</a>,&nbsp;
+                <a href="https://www.stateofthedapps.com/" target="blank" rel="noopener noreferrer">State of the Dapps</a>
                 </span>
               </li>
               <li><em>Other</em> -
