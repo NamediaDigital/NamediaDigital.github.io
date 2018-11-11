@@ -28,8 +28,10 @@ const AboutPage = (props, context) => {
               I'm a full stack software engineer/developer - <span className="highlight">JS/MERN/MEAN + Python/Django + Swift/Xcode</span>.
             </p>
             <p>
-              I love to learn and teach <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Computer Science</span></a>, but, most of all, I get a kick out of making things with it.<br />
-              A special shout-out to my instructors, mentors and friends over at <a href="https://mbsy.co/m2pDr" rel="noopener noreferrer" target="_blank"><span className="highlight">Lambda School</span></a> for helping me to get started in this awesome profession.
+              I'm passionate about learning new <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Computer Science</span></a> skills, sharing new knowledge with other developers, constantly perfecting my current skill set, and building high-quality, well-designed, and bug-free software.
+            </p>
+            <p>
+              A special shout-out to my instructors, mentors and friends over at <a href="https://mbsy.co/m2pDr" rel="noopener noreferrer" target="_blank"><span className="highlight">Lambda School</span></a> for helping me to get started in this awesome and highly rewarding profession.
               {/* My passion is building{' '}
               <span className="highlight"> cool apps</span> for my clients, friends, and family. 
               I have a passion for learning new technologies and I usually learn one new tech every month. */}
@@ -48,7 +50,7 @@ const AboutPage = (props, context) => {
               React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
               AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
             </p> */}
-            <p>Current <span className="highlight">toolset</span>:</p>
+            <p>My <span className="highlight">Tools</span>:</p>
             <ul>
               <li><em>JS STYLE GUIDE</em> -
                 <span> <a href="https://github.com/airbnb/javascript" rel="noopener noreferrer" target="_blank">Airbnb</a>, <a href="https://google.github.io/styleguide/jsguide.html" rel="noopener noreferrer" target="_blank">Google</a></span>
