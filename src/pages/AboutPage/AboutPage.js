@@ -25,7 +25,8 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I'm a full stack software engineer/developer - <span className="highlight">JS/MERN/MEAN + Python/Django + Swift/Xcode</span>.
+              I'm a full stack software engineer and developer.
+               {/* - <span className="highlight">JS/MERN/MEAN + Python/Django + Swift/Xcode</span>. */}
             </p>
             <p>
               I'm passionate about learning new <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Computer Science</span></a> skills, sharing new knowledge with other developers, constantly perfecting my current skill set, and building high-quality, well-designed, and bug-free software.
@@ -52,14 +53,14 @@ const AboutPage = (props, context) => {
             </p> */}
             <p>My <span className="highlight">Tools</span>:</p>
             <ul>
-              <li><em>JS STYLE GUIDE</em> -
-                <span> <a href="https://github.com/airbnb/javascript" rel="noopener noreferrer" target="_blank">Airbnb</a>, <a href="https://google.github.io/styleguide/jsguide.html" rel="noopener noreferrer" target="_blank">Google</a></span>
+              <li><em>STYLE GUIDE</em> -
+                <span> <a href="https://standardjs.com/index.html" rel="noopener noreferrer" target="_blank">StandardJS</a>, <a href="https://github.com/airbnb/javascript" rel="noopener noreferrer" target="_blank">Airbnb</a>, <a href="https://google.github.io/styleguide/jsguide.html" rel="noopener noreferrer" target="_blank">Google</a></span>
               </li>
               <li><em>UI/UX</em> -
-                <span> <a href="https://material.io/" rel="noopener noreferrer" target="_blank">Material Design</a>, <a href="https://material-ui.com/" rel="noopener noreferrer" target="_blank">Material-UI</a>, <a href="https://semantic-ui.com/" rel="noopener noreferrer" target="_blank">Semantic-UI</a>, <a href="https://getbootstrap.com/" rel="noopener noreferrer" target="_blank">Bootstrap</a></span>
+                <span> <a href="https://www.w3schools.com/Css/" rel="noopener noreferrer" target="_blank">CSS</a>, <a href="https://sass-lang.com/" rel="noopener noreferrer" target="_blank">SCSS</a>, <a href="http://lesscss.org/" rel="noopener noreferrer" target="_blank">LESS</a>, <a href="https://material.io/" rel="noopener noreferrer" target="_blank">Material Design</a>, <a href="https://material-ui.com/" rel="noopener noreferrer" target="_blank">Material-UI</a>, <a href="https://semantic-ui.com/" rel="noopener noreferrer" target="_blank">Semantic-UI</a>, <a href="https://getbootstrap.com/" rel="noopener noreferrer" target="_blank">Bootstrap</a>, <a href="https://react-bootstrap.github.io/" rel="noopener noreferrer" target="_blank">React-Bootstrap</a></span>
               </li>
               <li><em>CLIENT</em> -
-                <span> <a href="https://www.w3schools.com/html/" rel="noopener noreferrer" target="_blank">HTML</a>, <a href="https://www.w3schools.com/Css/" rel="noopener noreferrer" target="_blank">CSS</a>, <a href="https://sass-lang.com/" rel="noopener noreferrer" target="_blank">SCSS</a>, <a href="http://lesscss.org/" rel="noopener noreferrer" target="_blank">LESS</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer" target="_blank">Javascript</a>, <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">React</a>, <a href="https://angular.io/" rel="noopener noreferrer" target="_blank">Angular</a>, <a href="https://redux.js.org/" rel="noopener noreferrer" target="_blank">Redux</a>, <a href="https://reacttraining.com/react-router/l" rel="noopener noreferrer" target="_blank">React Router</a></span>
+                <span> <a href="https://www.w3schools.com/html/" rel="noopener noreferrer" target="_blank">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer" target="_blank">Javascript</a>, <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">React</a>, <a href="https://vuejs.org/" rel="noopener noreferrer" target="_blank">VueJS</a>, <a href="https://angular.io/" rel="noopener noreferrer" target="_blank">Angular</a>, <a href="https://redux.js.org/" rel="noopener noreferrer" target="_blank">Redux</a>, <a href="https://reacttraining.com/react-router/l" rel="noopener noreferrer" target="_blank">React Router</a>, <a href="https://www.gatsbyjs.org/" rel="noopener noreferrer" target="_blank">GatsbyJS</a>, <a href="https://surge.sh/" rel="noopener noreferrer" target="_blank">Surge</a></span>
               </li>
               <li><em>SERVER</em> -
                 <span> <a href="http://expressjs.com/" rel="noopener noreferrer" target="_blank">Express</a>,&nbsp;
