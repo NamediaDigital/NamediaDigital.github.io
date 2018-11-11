@@ -1,4 +1,7 @@
-From Original Author
+## CLI commands:
+1. Start locally - `npm start`
+2. Build for deployment - `npm run build`
+
 ```
 Dinesh Pandiyan
 
