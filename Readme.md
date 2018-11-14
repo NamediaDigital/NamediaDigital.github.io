@@ -1,4 +1,4 @@
-### [Site's URL](https://namediadigital.github.io/)
+### [Site's URL](https://namedia.digital/)
 
 This repo holds source code for a portfolio website.
 
