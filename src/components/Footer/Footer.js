@@ -9,6 +9,7 @@ const Footer = (props, context) => {
     <footer>
       <div className="content-grid">
         <div style={{ color: textPrimary }}>Made by <a href="https://github.com/sharp0111" target="_blank" rel="noopener noreferrer" style={{ color: colorPrimary }}>me</a> <span role="img" aria-label="heart">❤️</span></div>
+        <div style={{ color: textPrimary }}>Read <a href="https://blog-namediadigital.netlify.com/" target="_blank" rel="noopener noreferrer" style={{ color: colorPrimary }}>my blog</a></div>
       </div>
     </footer>
   );
