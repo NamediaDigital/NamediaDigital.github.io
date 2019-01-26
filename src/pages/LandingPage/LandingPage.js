@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import SocialIcons from '@components/SocialIcons';
 import Nav from '@components/Nav';
 import ScrollToNext from '@components/ScrollToNext';
-import BrowserNotes from '@components/BrowserNotes';
+// import BrowserNotes from '@components/BrowserNotes';
 
 import './style.scss';
 
@@ -14,7 +14,7 @@ const LandingPage = (props, context) => {
     <div style={{ backgroundColor: bgPrimary }} className="landing-page">
       <Nav />
       <main style={{ color: colorPrimary }}>
-        <BrowserNotes />
+        {/* <BrowserNotes /> */}
         <div className="intro-wrapper">
           <div className="intro-name">Software Engineer/Developer</div>
           <div className="tagline">
