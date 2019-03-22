@@ -80,6 +80,11 @@ class Nav extends Component {
           >
             Projects
           </div>
+          <a className="menu__item" style={{color: `${colorPrimary}`}}
+            href="https://blog.namedia.digital"
+          >
+            Blog
+          </a>
         </div>
       </nav>
     );
