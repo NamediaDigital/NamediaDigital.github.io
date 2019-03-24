@@ -30,7 +30,7 @@ const AboutPage = (props, context) => {
             </p>
             <p>
             {/* <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Computer Science</span></a> */}
-              I'm passionate about learning new skills, sharing new knowledge with other creators, constantly perfecting my skills, and building high-quality, well-designed, and bug-free software and art.
+              I'm passionate about learning new skills, sharing knowledge with other creators, constantly perfecting my skills, and creating high-quality art, and well-designed and bug-free software.
             </p>
             <p>
               A special shout-out to my instructors, mentors and friends over at <a href="https://mbsy.co/m2pDr" rel="noopener noreferrer" target="_blank"><span className="highlight">Lambda School</span></a> for helping me to get started in this awesome and highly rewarding career.

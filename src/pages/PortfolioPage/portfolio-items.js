@@ -80,13 +80,12 @@ export default [{
       Namedia Blog
       </div>
       <div className='portfolio-item__desc'>
-      non-TL;DR articles about software engineering
+      non-TL;DR articles about software engineering and photography
       </div>
       <div className='portfolio-item__icon'>
         {/* <i className="fab fa-js"></i> */}
         <i class="fas fa-code"></i>
-        <i className="fab fa-node"></i>
-        <i className="fab fa-npm"></i>
+        <i class="fas fa-camera-retro"></i>
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a> */}
