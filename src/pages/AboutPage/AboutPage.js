@@ -25,14 +25,15 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I'm a full stack software engineer and developer.
+              I'm a full stack software engineer, developer and photographer.
                {/* - <span className="highlight">JS/MERN/MEAN + Python/Django + Swift/Xcode</span>. */}
             </p>
             <p>
-              I'm passionate about learning new <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Computer Science</span></a> skills, sharing new knowledge with other developers, constantly perfecting my current skill set, and building high-quality, well-designed, and bug-free software.
+            {/* <a href="https://learn.lambdaschool.com/" rel="noopener noreferrer" target="_blank"><span className="highlight">Computer Science</span></a> */}
+              I'm passionate about learning new skills, sharing new knowledge with other creators, constantly perfecting my skills, and building high-quality, well-designed, and bug-free software and art.
             </p>
             <p>
-              A special shout-out to my instructors, mentors and friends over at <a href="https://mbsy.co/m2pDr" rel="noopener noreferrer" target="_blank"><span className="highlight">Lambda School</span></a> for helping me to get started in this awesome and highly rewarding profession.
+              A special shout-out to my instructors, mentors and friends over at <a href="https://mbsy.co/m2pDr" rel="noopener noreferrer" target="_blank"><span className="highlight">Lambda School</span></a> for helping me to get started in this awesome and highly rewarding career.
               {/* My passion is building{' '}
               <span className="highlight"> cool apps</span> for my clients, friends, and family. 
               I have a passion for learning new technologies and I usually learn one new tech every month. */}
@@ -121,6 +122,10 @@ const AboutPage = (props, context) => {
               <li><em>Other</em> -
                 <span> <a href="https://github.com/" target="blank" rel="noopener noreferrer">Github - open source</a>,&nbsp;
                 <a href="https://travis-ci.org/" target="blank" rel="noopener noreferrer">Travis CI - continuous integration</a></span>
+              </li>
+              <li><em>Photography</em> -
+                <span> <a href="https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7m3-body-kit" target="blank" rel="noopener noreferrer">Sony Alpha a7 III Mirrorless Digital Camera</a>,&nbsp;
+                <a href="https://www.adobe.com/products/photoshop-lightroom.html?sdid=KKTJE&mv=search&ef_id=EAIaIQobChMIi5C4ur6Z4QIVYR6tBh1C3wXkEAAYASAAEgLpXvD_BwE:G:s&s_kwcid=AL!3085!3!301413810362!e!!g!!adobe%20lightroom" target="blank" rel="noopener noreferrer">Adobe Lightroom</a></span>
               </li>
             </ul>
             <p className="text-emoji" style={{ color: colorPrimary }}>

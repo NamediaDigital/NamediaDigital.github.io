@@ -73,6 +73,28 @@ export default [{
     </div>
   )
 }, {
+  name: 'Namedia Blog',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+      Namedia Blog
+      </div>
+      <div className='portfolio-item__desc'>
+      non-TL;DR articles about software engineering
+      </div>
+      <div className='portfolio-item__icon'>
+        {/* <i className="fab fa-js"></i> */}
+        <i class="fas fa-code"></i>
+        <i className="fab fa-node"></i>
+        <i className="fab fa-npm"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a> */}
+        <a target="_blank" rel="noopener noreferrer" href="https://blog.namedia.digital/">LIVE</a>
+      </div>
+    </div>
+  )
+}, {
   name: 'Passport',
   render: (
     <div className='portfolio-item'>
@@ -86,32 +108,11 @@ export default [{
         {/* <i className="fab fa-react"></i> */}
         <i className="fab fa-js"></i>
         <i className="fab fa-node"></i>
+        <i className="fab fa-npm"></i>
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh/react-redux-boilerplate-with-best-practices--2pp5">Blog</a> */}
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/passport">GITHUB</a>
-      </div>
-    </div>
-  )
-}, {
-  name: 'Truffle',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        Truffle
-      </div>
-      <div className='portfolio-item__desc'>
-      The most popular Ethereum development framework. Open Source Project Contributor
-      </div>
-      <div className='portfolio-item__icon'>
-        {/* <i className="fab fa-js"></i> */}
-        <i className="fab fa-ethereum"></i>
-        <i className="fab fa-node"></i>
-        <i className="fab fa-npm"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sharp0111/truffle">GITHUB</a>
       </div>
     </div>
   )

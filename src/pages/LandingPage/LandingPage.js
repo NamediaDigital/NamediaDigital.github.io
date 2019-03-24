@@ -16,10 +16,10 @@ const LandingPage = (props, context) => {
       <main style={{ color: colorPrimary }}>
         {/* <BrowserNotes /> */}
         <div className="intro-wrapper">
-          <div className="intro-name">Software Engineer/Developer</div>
-          <div className="tagline">
-          JS/MERN/MEAN | Python/Django | Swift/Xcode
-          </div>
+          <div className="intro-name">Software Engineer / Photographer</div>
+          {/* <div className="tagline">
+          JS/MERN/TS/MEAN | Python/Django | Ruby |Swift/Xcode
+          </div> */}
           <SocialIcons />
         </div>
       </main>
