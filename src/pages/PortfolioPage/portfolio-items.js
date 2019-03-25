@@ -89,7 +89,7 @@ export default [{
       </div>
       <div className='portfolio-item__links'>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/browser-or-node">NPM</a> */}
-        <a target="_blank" rel="noopener noreferrer" href="https://blog.namedia.digital/">LIVE</a>
+        <a href="https://blog.namedia.digital/">LIVE</a>
       </div>
     </div>
   )
